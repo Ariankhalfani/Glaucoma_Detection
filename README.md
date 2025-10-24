@@ -1,4 +1,4 @@
-markdown# Glaucoma Detection App
+# Glaucoma Detection App
 
 A desktop application for automated glaucoma detection using deep learning and image processing techniques. This application provides both traditional cup-to-disc ratio calculation and CNN-based diagnosis for glaucoma screening from retinal fundus images.
 
